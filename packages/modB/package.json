@@ -1,0 +1,12 @@
+{
+  "name": "modB",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.5"
+  }
+}
